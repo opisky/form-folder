@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.bg-primary{
+    background-color:#042a33 !important ;
+}
+
+input::placeholder{
+    color:#2e8b57;
+    color:#2e8b57;
+}
